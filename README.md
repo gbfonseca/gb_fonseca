@@ -5,7 +5,9 @@
 &nbsp;
 
 **Talking about Personal Stuffs:**
-- 👨🏽‍💻 I’m currently learning Asp.Net Core, Angular and Sql Server; 
+- 👨 I’m currently learning Asp.Net Core, Angular and Sql Server; 
+- 💻 I'm a student of Computer Science;
+- ⚡️ Enthusiast in Machine Learning, Data Science, Python.
 - 📫 How to reach me: gabriel.fonsecadev@gmail.com;
 
 **Languages and Tools:** 
