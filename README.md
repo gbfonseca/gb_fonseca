@@ -1,5 +1,4 @@
-## Hi, I'm Gabriel Fonseca, a Developer 🚀 from Brazil.
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gbfonseca)
+## Hi, I'm Gabriel Fonseca, a Developer from Brazil.
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fonseca1999/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabriel.fonsecadev@gmail.com)
 &nbsp;
