@@ -5,7 +5,7 @@
 &nbsp;
 
 **Talking about Personal Stuffs:**
-- 👨 I’m currently learning NodeJS, Angular, React and Postgres; 
+- 👨 I’m currently learning React Native, NextJs and .Net Core; 
 - 💻 I'm a student of Computer Science;
 - ⚡️ Enthusiast in Machine Learning, Data Science, Python.
 - 📫 How to reach me: gabriel.fonsecadev@gmail.com;
@@ -19,4 +19,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
 </p>
