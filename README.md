@@ -4,9 +4,9 @@
 &nbsp;
 
 **Talking about Personal Stuffs:**
-- 👨 I’m currently learning NextJs and NestJS; 
+- 👨 I’m currently learning Python, NextJs and  NestJS; 
 - 💻 I'm a student of Computer Science;
-- ⚡️ Enthusiast in Machine Learning, Data Science, Python.
+- ⚡️ Enthusiast in Machine Learning, Data Science, AI.
 - 📫 How to reach me: gabriel.fonsecadev@gmail.com;
 
 **Languages and Tools:** 
