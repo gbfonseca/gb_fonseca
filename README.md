@@ -4,10 +4,14 @@
 &nbsp;
 
 **Talking about Personal Stuffs:**
-- 👨 I’m currently learning Python, NextJs and  NestJS; 
+- 👨 I’m currently learning Rust and Python 
 - 💻 I'm a student of Computer Science;
-- ⚡️ Enthusiast in Machine Learning, Data Science, AI.
+- ⚡️ Enthusiast in Machine Learning, Deep Learning and AI.
 - 📫 How to reach me: gabriel.fonsecadev@gmail.com;
+
+![skills](https://github-readme-stats.vercel.app/api?username=gbfonseca&show_icons=true&theme=dark&hide=contribs,prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=gbfonseca&theme=dark&layout=compact)
 
 **Languages and Tools:** 
 <p>
@@ -19,6 +23,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <br />
+   <code><img width="10%" height="40" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" height="40" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png"></code>
+  <code><img width="10%" height="40" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png"></code>  
 </p>
