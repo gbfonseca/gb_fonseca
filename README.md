@@ -9,10 +9,6 @@
 - ⚡️ Enthusiast in Machine Learning, Deep Learning and AI.
 - 📫 How to reach me: gabriel.fonsecadev@gmail.com;
 
-![skills](https://github-readme-stats.vercel.app/api?username=gbfonseca&show_icons=true&theme=dark&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=gbfonseca&theme=dark&layout=compact)
-
 **Languages and Tools:** 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
