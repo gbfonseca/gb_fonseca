@@ -4,10 +4,11 @@
 &nbsp;
 
 **Talking about Personal Stuffs:**
-- 👨 I’m currently learning Rust and Python 
+- 👨 I’m currently learning Rust and Python;
 - 💻 I'm a student of Computer Science;
-- ⚡️ Enthusiast in Machine Learning, Deep Learning and AI.
+- ⚡️ Enthusiast in Machine Learning, Deep Learning and AI;
 - 📫 How to reach me: gabriel.fonsecadev@gmail.com;
+- 👓 Looking for freelance jobs;
 
 **Languages and Tools:** 
 <p>
