@@ -1,14 +1,16 @@
-## Hi, I'm Gabriel Fonseca, a Developer from Brazil.
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+### Hi, I'm Gabriel Fonseca, a Developer from Brazil.
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fonseca1999/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabriel.fonsecadev@gmail.com)
 &nbsp;
 
 **Talking about Personal Stuffs:**
-- 👨 I’m currently learning Python, Flutter and Go;
-- 💻 I'm a student of Computer Science;
-- ⚡️ Enthusiast in Machine Learning, Deep Learning and AI;
-- 📫 How to reach me: gabriel.fonsecadev@gmail.com;
-- 👓 Looking for freelance jobs;
+- 💻 I'm a Software Developer.
+- 👨 I’m currently learning Python, Flutter and Go.
+- ⚡️ Enthusiast in Machine Learning, Deep Learning and AI.
+- 📫 How to reach me: gabriel.fonsecadev@gmail.com.
+- 👓 Looking for freelance jobs.
 
 **Languages and Tools:** 
 <p>
