@@ -6,7 +6,7 @@
 
 **Talking about Personal Stuffs:**
 - 💻 I'm a Software Developer.
-- 👨 I’m currently learning Python, Flutter and Go.
+- 👨 I’m currently learning AWS, and Java(Quarkus).
 - ⚡️ Enthusiast in Machine Learning, Deep Learning and AI.
 - 📫 How to reach me: gabriel.fonsecadev@gmail.com.
 - 👓 Looking for freelance jobs.
@@ -23,4 +23,5 @@
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 </p>
